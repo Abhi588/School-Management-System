@@ -1,0 +1,67 @@
+PREREQUISITE;
+1. MSAccess Database
+2. Netbeans
+3. Java -version 1.8.0 
+
+If you want to access through cmd;
+	java -version 1.8.0 should be installed { Mandatory };
+	
+	Step 1:- Open cmd
+	Step 2:- Run the command
+		java -jar "location of file\SchoolManagementSystem.jar"
+	
+		Example :- java -jar "C:\Users\Abhishek\Documents\NetBeansProjects\SchoolManagementSystem\dist\SchoolManagementSystem.jar"
+	Step 3:- Copy database file location paste in text field for database location
+			
+			Example:-C:\Users\Abhishek\Documents\NetBeansProjects\SchoolManagementSystem
+	
+	Step 4:- Click on set Path {it will set your database file location}
+	Step 5:- Type Login details as
+		for Administrator :-
+		User name:- Admin
+		password:-  password
+		for student:-
+		Username :- Abhishek
+		password:- kumar
+	Step 6:-Use functions then close.
+
+If You have Netbeans 
+	Directly open Project in netbeans:
+
+	Step 1:- Open project
+	Step 2:- Select project
+	Step 3:- Run Project
+	Step 4:- Copy database file location paste in text field for database location
+			
+			Example:-C:\Users\Abhishek\Documents\NetBeansProjects\SchoolManagementSystem
+	
+	Step 5:- Click on set Path {it will set your database file location}
+	Step 6:- Type Login details as
+		for Administrator :-
+		User name:- Admin
+		password:-  password
+		for student:-
+		Username :- Abhishek
+		password:- kumar
+	Step 7:-Use functions then close.
+
+If You want to Execute .exe file
+	Step 1:- Select the SchoolMgmtSystem.exe file from the folder
+	Step 2:- Double click to open:
+	Step 3:- Copy database file location paste in text field for database location
+			
+			Example:-C:\Users\Abhishek\Documents\NetBeansProjects\SchoolManagementSystem
+	
+	Step 4:- Click on set Path {it will set your database file location}
+	Step 5:- Type Login details as
+		for Administrator :-
+		User name:- Admin
+		password:-  password
+		for student:-
+		Username :- Abhishek
+		password:- kumar
+	Step 6:-Use functions then close.
+
+
+	 
+	
